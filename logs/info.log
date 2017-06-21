@@ -1,0 +1,51 @@
+Info: CustomCategory:categoriatrabalho: 47 mini seconds publishing element
+Info: DeliveryProcess:ProcessoTrabalho1: 719 mini seconds publishing element
+Info: DeliveryProcess:ProcessoTrabalho1: 500 mini seconds publishing process specific layout data
+Info: Activity:Definir Missão: 656 mini seconds publishing element
+Info: TaskDescriptor:implementar_teste: 78 mini seconds publishing element
+Info: TaskDescriptor:implementar_conjunto_de_teste: 109 mini seconds publishing element
+Info: TaskDescriptor:executar_conjunto_de_teste: 94 mini seconds publishing element
+Info: TaskDescriptor:determinar_resultados_do_teste: 110 mini seconds publishing element
+Info: Activity:Verificar Abordagem do Teste: 406 mini seconds publishing element
+Info: TaskDescriptor:definir_detalhes_do_teste: 78 mini seconds publishing element
+Info: Activity:Testar e Avaliar: 406 mini seconds publishing element
+Info: TaskDescriptor:definir_abordagem_de_teste: 78 mini seconds publishing element
+Info: RoleDescriptor:design_de_teste: 79 mini seconds publishing element
+Info: WorkProductDescriptor:arquitetura_para_automatizao_de_teste: 109 mini seconds publishing element
+Info: WorkProductDescriptor:build: 62 mini seconds publishing element
+Info: WorkProductDescriptor:caso_de_teste: 78 mini seconds publishing element
+Info: WorkProductDescriptor:conjunto_de_teste: 79 mini seconds publishing element
+Info: WorkProductDescriptor:guia_de_teste: 69 mini seconds publishing element
+Info: WorkProductDescriptor:lista_de_idias_de_testes: 62 mini seconds publishing element
+Info: WorkProductDescriptor:log_de_testes: 78 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_anlise_de_carga_de_trabalho: 63 mini seconds publishing element
+Info: WorkProductDescriptor:plano_de_teste: 62 mini seconds publishing element
+Info: WorkProductDescriptor:resultados_do_teste: 79 mini seconds publishing element
+Info: WorkProductDescriptor:scripts_de_teste: 62 mini seconds publishing element
+Info: WorkProductDescriptor:solicitao_de_mudana: 78 mini seconds publishing element
+Info: Task:implementar_teste: 63 mini seconds publishing element
+Info: Task:implementar_conjunto_de_teste: 47 mini seconds publishing element
+Info: Task:executar_conjunto_de_teste: 78 mini seconds publishing element
+Info: Task:determinar_resultados_do_teste: 47 mini seconds publishing element
+Info: RoleDescriptor:design_de_teste: 93 mini seconds publishing element
+Info: WorkProductDescriptor:caso_de_teste: 63 mini seconds publishing element
+Info: WorkProductDescriptor:lista_de_idias_de_testes: 94 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_anlise_de_carga_de_trabalho: 62 mini seconds publishing element
+Info: Task:definir_detalhes_do_teste: 47 mini seconds publishing element
+Info: RoleDescriptor:design_de_teste: 78 mini seconds publishing element
+Info: WorkProductDescriptor:plano_de_teste: 63 mini seconds publishing element
+Info: Task:definir_abordagem_de_teste: 46 mini seconds publishing element
+Info: Role:design_de_teste: 110 mini seconds publishing element
+Info: Artifact:arquitetura_para_automatizao_de_teste: 297 mini seconds publishing element
+Info: Artifact:build: 343 mini seconds publishing element
+Info: Artifact:caso_de_teste: 405 mini seconds publishing element
+Info: Artifact:conjunto_de_teste: 476 mini seconds publishing element
+Info: Artifact:guia_de_teste: 266 mini seconds publishing element
+Info: Artifact:lista_de_idias_de_testes: 390 mini seconds publishing element
+Info: Artifact:log_de_testes: 954 mini seconds publishing element
+Info: Artifact:modelo_de_anlise_de_carga_de_trabalho: 390 mini seconds publishing element
+Info: Artifact:plano_de_teste: 344 mini seconds publishing element
+Info: Artifact:resultados_do_teste: 636 mini seconds publishing element
+Info: Artifact:scripts_de_teste: 453 mini seconds publishing element
+Info: Artifact:solicitao_de_mudana: 890 mini seconds publishing element
+Info: : Publishing time: 0 minutes 17 seconds
